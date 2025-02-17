@@ -1,2 +1,2 @@
 # JavaClinic
-Projeto em Grupo de uma sistema de Agendamento de Consultas - JAVA
+Projeto em Grupo de um sistema de Agendamento de Consultas - JAVA
