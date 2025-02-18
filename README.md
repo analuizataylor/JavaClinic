@@ -1,7 +1,7 @@
 
 # Projeto JavaClinic
 
-É um sistema feio para controle de pessoas em uma clínica médica, com funcionalidades como cadastramento de médicos e pacientes, agendamento e cancelamento de consultas e outras ações relacionadas.
+🩺 É um sistema feio para controle de pessoas em uma clínica médica, com funcionalidades como cadastramento de médicos e pacientes, agendamento e cancelamento de consultas e outras ações relacionadas.
 
 Foi utilizado a linguagem Java e principalmlente a Orientação à objetos, proporcionando maior organização e controle nas atividades da clínica.
 
