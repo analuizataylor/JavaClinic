@@ -3,7 +3,7 @@
 
 É um sistema feio para controle de pessoas em uma clínica médica, possui funcionalidades como cadastramento de médicos/pacientes e agendamento/cancelamento de consultas.
 
-Foi utilizado a linguagem Java e a Orientação à objetos, proporcionando maior organização e controle nas atividades da clínica.
+Foi utilizado a linguagem Java e a Orientação a objetos, proporcionando maior organização e controle nas atividades da clínica.
 
 ## Integrantes
 - Ana Luiza Taylor
